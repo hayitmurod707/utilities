@@ -1,3 +1,3 @@
-# javascript-algorithms
+# utilities.
 
-Javascript algorithms
+Javascript helper codes
